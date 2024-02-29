@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/thesonofmoon                                               | 
 | 1    | Github Profile Page                         | https://github.com/thesonofmoon/thesonofmoon                                   |
-| 1    | Commit and Push Change from Command Line    | https://github.com/thesonofmoon/ppchem/commit/[`Carpe Diem`](https://github.com/thesonofmoon/ppchem/commit/93eb9169fbb0f0c29200029df68829539e33f2f3)               |
+| 1    | Commit and Push Change from Command Line    | https://github.com/thesonofmoon/ppchem/commit/[`Carpe Diem`](https://github.com/thesonofmoon/ppchem/commit/e2cb30887f48d09e6965220ed4ca5dc26fd2ad73)               |
 | 1    | Create a New Branch                         | https://github.com/thesonofmoon/ppchem/tree/new-branch-name            |
 | 1    | Create a conda environment                  | https://github.com/thesonofmoon/ppchem/blob/branch-name/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones |
