@@ -15,7 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones/pull/acdc4d15c9d94939b839ded9b3054bf66416cb0a |
+| 4    | Update `env.yml` via a Pull Request         | [https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones/pull/update-env](https://github.com/thesonofmoon/ppchem/pull/1) |
 
 **More milestones will be added throughout the course.**
 
