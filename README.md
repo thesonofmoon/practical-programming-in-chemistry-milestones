@@ -13,7 +13,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/thesonofmoon/ppchem/tree/new-branch-name            |
 | 1    | Create a conda environment                  | https://github.com/thesonofmoon/ppchem/blob/new-branch-name/env.yml     |
 | 1    | Fork a Repo                                 | https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
+| 1    | (Optional) Make a Pull Request              | https://github.com/EAJ7/ProgProject/pull/3
 | 2    | (Optional) Review a Pull Request            | |
 | 4    | Update `env.yml` via a Pull Request         | [https://github.com/thesonofmoon/practical-programming-in-chemistry-milestones/pull/update-env](https://github.com/thesonofmoon/ppchem/pull/1) |
 
